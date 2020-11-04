@@ -1,0 +1,20 @@
+Read a text file line by line and display each word separated by a #.
+
+Read a text file and display the number of vowels/ consonants/ uppercase/ lowercase characters in the file.
+
+Create a binary file with name and roll number. Search for a given roll number and display the name, if not found display appropriate message.
+
+Create a binary file with roll number, name and marks, Input a roll number and update the marks.
+
+Remove all the lines that contain the character 'a' in a file and write it to another file.
+
+Write a random number generator that generates random numbers between 1 and 6 (simulates a dice).
+
+Write a python program to implement a stack using a list data structure
+
+Write a python program to implement queue using a list data-structure
+
+take a sample of ten phishing e-mails (or any text file) and find most commonly occuring word(s)
+
+
+
